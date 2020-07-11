@@ -1,4 +1,5 @@
-### Hi there 👋
+# Simon Højberg
+UIs, Functional Programming, Architecture, Category Theory. 
 
 <!--
 **hojberg/hojberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
