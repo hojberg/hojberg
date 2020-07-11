@@ -1,7 +1,7 @@
 # Simon Højberg
 UIs, Functional Programming, Architecture, Category Theory.
 
---
+---
 
 Currently writing a book on collaboration in software: [Programming is Collaboration](http://programming-is-collaboration.com)
 
