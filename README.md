@@ -1,5 +1,7 @@
 # Simon Højberg
-UIs, Functional Programming, Architecture, Category Theory. [hojberg.xyz](https://hojberg.xyz)
+UIs, Functional Programming, Architecture, Category Theory. 
+
+[hojberg.xyz](https://hojberg.xyz)
 
 ---
 
