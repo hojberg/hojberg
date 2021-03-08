@@ -1,9 +1,9 @@
 # Simon Højberg
-UIs, Functional Programming, Architecture, Category Theory.
+UIs, Functional Programming, Architecture, Category Theory. [hojberg.xyz](https://hojberg.xyz)
 
 ---
 
-Currently writing a book on collaboration in software: [Programming is Collaboration](http://programming-is-collaboration.com)
+Currently writing a book on collaboration in software: [Programming is Collaboration](https://programming-is-collaboration.com)
 
 <!--
 **hojberg/hojberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
