@@ -3,7 +3,7 @@ UIs, Functional Programming, Architecture, Category Theory.
 
 [hojberg.xyz](https://hojberg.xyz)
 
-Working on UIs at @unisonweb
+Working on UIs at [@unisonweb](https://github.com/unisonweb)
 
 ---
 
