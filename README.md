@@ -3,6 +3,8 @@ UIs, Functional Programming, Architecture, Category Theory.
 
 [hojberg.xyz](https://hojberg.xyz)
 
+Working on UIs at @unisonweb
+
 ---
 
 Currently writing a book on collaboration in software: [Programming is Collaboration](https://programming-is-collaboration.com)
