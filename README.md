@@ -5,6 +5,8 @@ UIs, Functional Programming, Architecture, Category Theory.
 
 Working on UIs at [@unisonweb](https://github.com/unisonweb)
 
+<a rel="me" href="https://hachyderm.io/@hojberg">Mastodon</a>
+
 ---
 
 Currently writing a book on collaboration in software: [Programming is Collaboration](https://programming-is-collaboration.com)
