@@ -5,7 +5,7 @@ UIs, Functional Programming, Architecture, Category Theory.
 
 Working on UIs at [@unisonweb](https://github.com/unisonweb)
 
-<a rel="me" href="https://hachyderm.io/@hojberg">Mastodon</a>
+Follow me on Mastodon<a rel="me" href="https://hachyderm.io/@hojberg">@hojberg@hachyderm.io</a>
 
 ---
 
